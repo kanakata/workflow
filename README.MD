@@ -1,16 +1,17 @@
-# Usage
+# A utility tool for pushing code and running php server
+## Usage
 
-## starting a server
+### starting a server
 ```
 run
 ```
 
-## pushing code
+### pushing code
 ```
 run git
 ```
 
-## creating  repository
+### creating  repository
 ```
 run git [repo-url]
 ```
