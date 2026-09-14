@@ -1,6 +1,6 @@
 <?php
 $folder = $argv[1] ?? null;
-$file= __DIR__ . '/6637770331783168.wav';
+$file= __DIR__ . '/patoriki_push_tag.mp3';
 if ($folder === "git") {
     $commitMsg = date('Y-m-d H:i:s');
 
